@@ -1,3 +1,3 @@
-FROM grafana/loki:2.6.1
+FROM grafana/loki:latest
 
 #COPY loki.yaml /etc/mimir/demo.yaml
